@@ -6,14 +6,14 @@
     <description>Signed BattMetric stable releases</description>
     <language>zh-CN</language>
     <item>
-      <title>BattMetric 0.3.3</title>
-      <sparkle:version>0.3.3</sparkle:version>
-      <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.3</sparkle:releaseNotesLink>
-      <pubDate>Tue, 29 Sep 2026 09:29:02 GMT</pubDate>
+      <title>BattMetric 0.3.4</title>
+      <sparkle:version>0.3.4</sparkle:version>
+      <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.4</sparkle:releaseNotesLink>
+      <link>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.4</link>
+      <pubDate>Tue, 29 Sep 2026 14:14:10 GMT</pubDate>
       <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/battmetric/battmetric-public/releases/download/v0.3.3/BattMetric-0.3.3-macOS-arm64.dmg" length="105163120" type="application/octet-stream" sparkle:edSignature="5Zk1LPi2lyAwuKqZlq2+Vf3rNc2NmNAP8n2GIDCAj18N0px4ByzqfpNMx27NjJGrHmrbcCbO1purf0bcfBLxCA==" />
     </item>
   </channel>
 </rss>
