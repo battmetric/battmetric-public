@@ -4,11 +4,13 @@ BattMetric 是用于电池与电化学数据分析的桌面软件。本仓库只
 
 ## 下载与版本
 
-当前 macOS 稳定版为 [v0.3.5](https://github.com/battmetric/battmetric-public/releases/tag/v0.3.5)，Windows 稳定版为 [v0.3.1](https://github.com/battmetric/battmetric-public/releases/tag/v0.3.1)。请从本仓库的 [Releases 页面](https://github.com/battmetric/battmetric-public/releases)选择所需平台的附件，并以对应发行说明确认支持平台、安装步骤和签名状态。未来版本须在正式发布后才视为公开稳定版。
+当前 Windows 与 macOS 稳定版为 [v0.3.6](https://github.com/battmetric/battmetric-public/releases/tag/v0.3.6)，同一个平台安装包支持跟随系统、简体中文和 English。请从 [Releases 页面](https://github.com/battmetric/battmetric-public/releases)选择平台附件，并按发行说明核对安装步骤和签名状态。
 
-macOS 使用 `channels/stable-macos.json`，Windows 当前使用原 `channels/stable.json`；桌面端直接读取各自平台的 appcast。签名更新元数据用于核验公开发行；不要把候选包、草稿或第三方镜像当成正式发行。
+macOS 使用 `channels/stable-macos.json`，Windows 使用 `channels/stable-windows.json`；桌面端读取各自平台的 appcast。原 `channels/stable.json` 保留历史版本，下载页优先采用平台频道。签名元数据用于核验公开发行。
 
-macOS 0.3.4 及更早版本需下载并手动安装一次 0.3.5，之后可使用新签名密钥的自动更新。当前 macOS 包支持 Apple Silicon、macOS 13+，使用 ad-hoc 签名且未公证；Windows 当前包未 Authenticode 签名。
+旧 Windows 0.3.1、旧英文包，以及 macOS 0.3.4及更早版本，请备份设置、项目和授权缓存后手动安装统一包一次，以使用当前更新签名密钥。旧包没有语言偏好字段时，首次采用“跟随系统”；固定英文需要选择 English 并重启。
+
+macOS 包支持 Apple Silicon、macOS 13+，使用 ad-hoc 签名且未公证；Windows 包未 Authenticode 签名。后续统一包更新保留已有的显式语言选择和用户数据。
 
 ## 安装前校验
 

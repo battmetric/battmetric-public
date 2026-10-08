@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "schema": 1,
+    "product": "battmetric",
+    "version": "0.3.6",
+    "channel": "stable",
+    "published_at": "2026-10-08T13:33:12.292241Z",
+    "minimum_supported_version": "0.1.0",
+    "release_notes_url": "https://github.com/battmetric/battmetric-public/releases/tag/v0.3.6",
+    "mandatory": false,
+    "artifacts": [
+      {
+        "platform": "windows-x64",
+        "url": "https://github.com/battmetric/battmetric-public/releases/download/v0.3.6/BattMetric-Setup-0.3.6-x64.exe",
+        "sha256": "49493357fa9d0a0c17b7a83fb3dc7ecc6d20e2f251f9b9d1fe2c636360a9f1e0",
+        "bytes": 85697030,
+        "signature": "+t3pMMQkFzG2SLUyFAVqFMQcy+cwWLReh99d24Ni5DSUoGozgR/sQS5rNz6TMoma04zUnfa7781aCM7FXi7FBQ==",
+        "platform_signature": "unsigned",
+        "notarized": false
+      }
+    ]
+  },
+  "key_id": "desktop-update-2026-09-30",
+  "signature": "RYHTSYZ6uX4X21ruGoxR74SAhGWVus0rFEsee9CX7NNsRyysLCpp9iPIvaLEE8IheBRmuVzIWi9p6H6OvY7VCQ"
+}
