@@ -2,24 +2,24 @@
   "manifest": {
     "schema": 1,
     "product": "battmetric",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "channel": "stable",
-    "published_at": "2026-09-30T01:34:09Z",
+    "published_at": "2026-10-08T13:33:12.292241Z",
     "minimum_supported_version": "0.1.0",
-    "release_notes_url": "https://github.com/battmetric/battmetric-public/releases/tag/v0.3.5",
+    "release_notes_url": "https://github.com/battmetric/battmetric-public/releases/tag/v0.3.6",
     "mandatory": false,
     "artifacts": [
       {
         "platform": "macos-arm64",
-        "url": "https://github.com/battmetric/battmetric-public/releases/download/v0.3.5/BattMetric-0.3.5-macOS-arm64.dmg",
-        "sha256": "c2c1091740908bd977ebaf53a3089d266bd33b1decd12e0cb661e273bb82d9f7",
-        "bytes": 99528185,
-        "signature": "Z/jXrxYdqeoi4aEEp5/53/BHbh0QzrENEZ4dArYJ/656o8fiw3ixsWX9VRCgUlfRqJLEFcrsZ+JoWywe9xXDDw==",
+        "url": "https://github.com/battmetric/battmetric-public/releases/download/v0.3.6/BattMetric-0.3.6-macOS-arm64.dmg",
+        "sha256": "67f4eafa442cabc11551b468a2b39c80cbe10bff734802665999b031c872c2f4",
+        "bytes": 122291153,
+        "signature": "mexz9t54ocBwYvxiNoz7NBF8GaXvnIaGFutF1SUgGVupJ86jnPBlVWfV2Ez9liTkOmvHLYDMP5D+wwFllN9ZAw==",
         "platform_signature": "ad-hoc",
         "notarized": false
       }
     ]
   },
   "key_id": "desktop-update-2026-09-30",
-  "signature": "vnIf4S4B2cFXjol3zBn9RHAysQDJD2ldVJ5jq8i9zOy-g578BQ5ImByy1baWoP_JNd485y1-bcTfb6_b7ytzCQ"
+  "signature": "xOh1ceszeHcQ01MkxCh6l43xdLfZsTtoWCVsSL4VroMnYlpbpsNUhnQp2dOKhlnbYecnCb1cKuFPFHZhzl0rDg"
 }
