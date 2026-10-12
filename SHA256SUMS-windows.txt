@@ -1,1 +1,1 @@
-dc65f995e765d703f4fadd2ab2941b934b88f1aa475b825ac50e1b42e9741af2  BattMetric-Setup-0.3.7-x64.exe
+49493357fa9d0a0c17b7a83fb3dc7ecc6d20e2f251f9b9d1fe2c636360a9f1e0  BattMetric-Setup-0.3.6-x64.exe

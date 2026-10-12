@@ -6,12 +6,12 @@
     <description>Signed BattMetric stable releases</description>
     <language>zh-CN</language>
     <item>
-      <title>BattMetric 0.3.7</title>
-      <sparkle:version>0.3.7</sparkle:version>
-      <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.7</sparkle:releaseNotesLink>
-      <pubDate>Mon, 12 Oct 2026 14:21:02 GMT</pubDate>
-      <enclosure url="https://github.com/battmetric/battmetric-public/releases/download/v0.3.7/BattMetric-Setup-0.3.7-x64.exe" length="85731861" type="application/octet-stream" sparkle:edSignature="3Xhs8lKrae0Paw7RRwM+UxnJV4hELRHSHzigu1cJGcXEDY76fxiyjchSTPfXMZx/HyTA5AY/zkGWPIyDsPk2Cw==" />
+      <title>BattMetric 0.3.6</title>
+      <sparkle:version>0.3.6</sparkle:version>
+      <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.6</sparkle:releaseNotesLink>
+      <pubDate>Thu, 08 Oct 2026 13:33:12 GMT</pubDate>
+      <enclosure url="https://github.com/battmetric/battmetric-public/releases/download/v0.3.6/BattMetric-Setup-0.3.6-x64.exe" length="85697030" type="application/octet-stream" sparkle:edSignature="+t3pMMQkFzG2SLUyFAVqFMQcy+cwWLReh99d24Ni5DSUoGozgR/sQS5rNz6TMoma04zUnfa7781aCM7FXi7FBQ==" />
     </item>
   </channel>
 </rss>
