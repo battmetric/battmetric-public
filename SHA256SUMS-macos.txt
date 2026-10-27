@@ -1,1 +1,1 @@
-6298c07ca9127c8a1ee7f8c7f8ddef3b9ce49db136deb9600c09fffed9459d2b  BattMetric-0.3.7-macOS-arm64.dmg
+fd424141b5f55115e32d4203339df2322a22db0b6b7d3ef0ebf7d9d45b63619c  BattMetric-0.3.7-macOS-arm64.dmg
