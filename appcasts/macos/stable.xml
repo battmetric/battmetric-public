@@ -7,17 +7,17 @@
     <language>zh-CN</language>
     <item>
       <title>BattMetric 0.3.7</title>
-      <sparkle:version>0.3.7</sparkle:version>
+      <sparkle:version>1001</sparkle:version>
       <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.7-r20261027</sparkle:releaseNotesLink>
-      <link>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.7-r20261027</link>
+      <sparkle:releaseNotesLink>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.7-r20261027-b1001</sparkle:releaseNotesLink>
+      <link>https://github.com/battmetric/battmetric-public/releases/tag/v0.3.7-r20261027-b1001</link>
       <sparkle:informationalUpdate>
         <sparkle:belowVersion>0.3.5</sparkle:belowVersion>
       </sparkle:informationalUpdate>
-      <pubDate>Tue, 27 Oct 2026 04:44:24 GMT</pubDate>
+      <pubDate>Tue, 27 Oct 2026 14:14:33 GMT</pubDate>
       <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
       <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-      <enclosure url="https://github.com/battmetric/battmetric-public/releases/download/v0.3.7-r20261027/BattMetric-0.3.7-macOS-arm64.dmg" length="122701084" type="application/octet-stream" sparkle:edSignature="hFP97x91SDG5L54vlUuMY5ZFqZ/PnQVyF+Q8ReghmAUYhffcGsVcXOIYDNfIMyYOORFztSKaQIDrKP9XLt/2DQ==" />
+      <enclosure url="https://github.com/battmetric/battmetric-public/releases/download/v0.3.7-r20261027-b1001/BattMetric-0.3.7-macOS-arm64.dmg" length="125583675" type="application/octet-stream" sparkle:edSignature="Dg4dh14qoWjHiYBwpVDl6isSYDblxYuckXt3EMY9dI13V+v+aDwLP09I+SVw4RnQfc3ylzPTaRJ8wE9M55OEAA==" />
     </item>
   </channel>
 </rss>
